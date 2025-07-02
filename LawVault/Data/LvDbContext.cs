@@ -21,6 +21,18 @@ public class LvDbContext: IdentityDbContext<User, IdentityRole<Guid>, Guid>
 
     protected override void OnModelCreating(ModelBuilder builder)
     {
+        builder.Entity<EmailNotification>(entity =>
+        {
+            entity.HasKey(n => n.Id);
+            entity.Property(n => n.Id).ValueGeneratedOnAdd();
+            entity.Property(n => n.RecipientEmail).IsRequired();
+            entity.Property(n => n.Subject).IsRequired();
+            entity.Property(n => n.Body).IsRequired();
+            entity.Property(n => n.Status).HasConversion<string>();
+            entity.HasIndex(n => n.RecipientEmail);
+            entity.HasIndex(n => n.Status);
+            entity.Property(n => n.RetryCount).HasDefaultValue(0);
+        });
         
         builder.Entity<LegalDocument>()
             .HasOne(d => d.User)
@@ -55,7 +67,26 @@ public class LvDbContext: IdentityDbContext<User, IdentityRole<Guid>, Guid>
             .OnDelete(DeleteBehavior.SetNull); 
 
 
+        var adminId = Guid.Parse("4e3f5e12-494a-4f07-860b-2c7985debc3e");
+        var lawyerId = Guid.Parse("2545020f-9654-4368-b16f-905f0c8ec168");
         
+        var roles = new List<IdentityRole<Guid>>
+        {
+            new IdentityRole<Guid>
+            {
+                Id = adminId,
+                ConcurrencyStamp = adminId.ToString(),
+                Name="Admin",
+                NormalizedName = "ADMIN"
+            },
+            new IdentityRole <Guid>
+            {
+                Id = lawyerId,
+                ConcurrencyStamp = lawyerId.ToString(),
+                Name="Lawyer",
+                NormalizedName = "LAWYER"
+            },
+        };
         
         
         
