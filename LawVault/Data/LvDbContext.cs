@@ -22,8 +22,33 @@ public class LvDbContext: IdentityDbContext<User, IdentityRole<Guid>, Guid>
     protected override void OnModelCreating(ModelBuilder builder)
     {
         
+        builder.Entity<LegalDocument>()
+            .HasOne(d => d.User)
+            .WithMany(u => u.Documents)
+            .HasForeignKey(d => d.UserId)
+            .OnDelete(DeleteBehavior.Cascade);
+        
+        builder.Entity<Client>()
+            .HasOne(d => d.User)
+            .WithMany(u => u.Clients)
+            .HasForeignKey(d => d.UserId)
+            .OnDelete(DeleteBehavior.Cascade);
         
         
+        builder.Entity<CourtCase>()
+            .HasOne(d => d.User)
+            .WithMany(u => u.CourtCases)
+            .HasForeignKey(d => d.UserId)
+            .OnDelete(DeleteBehavior.Cascade);
+        
+        
+        builder.Entity<Reminder>()
+            .HasOne(r => r.CourtCase)
+            .WithMany(c => c.Reminders)
+            .HasForeignKey(r => r.CourtCaseId)
+            .OnDelete(DeleteBehavior.SetNull); // Keep reminder if court case is deleted
+
+
         
         
         
