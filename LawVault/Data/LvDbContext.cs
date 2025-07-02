@@ -52,7 +52,7 @@ public class LvDbContext: IdentityDbContext<User, IdentityRole<Guid>, Guid>
             .HasOne(r => r.CourtCase)
             .WithMany(c => c.Reminders)
             .HasForeignKey(r => r.CourtCaseId)
-            .OnDelete(DeleteBehavior.Cascade); 
+            .OnDelete(DeleteBehavior.SetNull); 
 
 
         
