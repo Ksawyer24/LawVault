@@ -41,12 +41,18 @@ public class LvDbContext: IdentityDbContext<User, IdentityRole<Guid>, Guid>
             .HasForeignKey(d => d.UserId)
             .OnDelete(DeleteBehavior.Cascade);
         
+        builder.Entity<Reminder>()
+            .HasOne(r => r.User)
+            .WithMany(u => u.Reminders)
+            .HasForeignKey(r => r.UserId)
+            .OnDelete(DeleteBehavior.Cascade);
+
         
         builder.Entity<Reminder>()
             .HasOne(r => r.CourtCase)
             .WithMany(c => c.Reminders)
             .HasForeignKey(r => r.CourtCaseId)
-            .OnDelete(DeleteBehavior.SetNull); // Keep reminder if court case is deleted
+            .OnDelete(DeleteBehavior.Cascade); // Keep reminder if court case is deleted
 
 
         
