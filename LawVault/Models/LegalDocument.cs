@@ -17,6 +17,8 @@ public class LegalDocument
     public Guid? CourtCaseId { get; set; } 
     public CourtCase CourtCase { get; set; }
     public Guid ClientId { get; set; }
+
+
     public Client Client { get; set; }
     public DocumentCategory Category { get; set; }
 }

@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sawye\\source\\repos\\LawVault\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\dto\\registerreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\dto\\registerreqdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\dto\\verifyemailreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\dto\\verifyemailreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\dto\\refreshtokenreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\dto\\refreshtokenreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\services\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\services\\repos\\tokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\services\\repos\\emailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\services\\repos\\emailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\services\\repos\\cookierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\services\\repos\\cookierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\services\\interface\\iemailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\services\\interface\\iemailrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\services\\interface\\itokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\services\\interface\\itokenrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\services\\interface\\icookierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\services\\interface\\icookierepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\services\\repos\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\services\\repos\\authrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\models\\legaldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\models\\legaldocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\services\\interface\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\services\\interface\\iauthrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|c:\\users\\sawye\\source\\repos\\lawvault\\lawvault\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1C07508-274B-4998-8BBA-55533C773B8D}|LawVault\\LawVault.csproj|solutionrelative:lawvault\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterReqDto.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Dto\\RegisterReqDto.cs",
+              "RelativeDocumentMoniker": "LawVault\\Dto\\RegisterReqDto.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Dto\\RegisterReqDto.cs",
+              "RelativeToolTip": "LawVault\\Dto\\RegisterReqDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:31:56.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VerifyEmailReq.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Dto\\VerifyEmailReq.cs",
+              "RelativeDocumentMoniker": "LawVault\\Dto\\VerifyEmailReq.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Dto\\VerifyEmailReq.cs",
+              "RelativeToolTip": "LawVault\\Dto\\VerifyEmailReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:31:41.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RefreshTokenReq.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Dto\\RefreshTokenReq.cs",
+              "RelativeDocumentMoniker": "LawVault\\Dto\\RefreshTokenReq.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Dto\\RefreshTokenReq.cs",
+              "RelativeToolTip": "LawVault\\Dto\\RefreshTokenReq.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:30:51.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TokenRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Repos\\TokenRepo.cs",
+              "RelativeDocumentMoniker": "LawVault\\Services\\Repos\\TokenRepo.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Repos\\TokenRepo.cs",
+              "RelativeToolTip": "LawVault\\Services\\Repos\\TokenRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:29:17.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Repos\\EmailRepo.cs",
+              "RelativeDocumentMoniker": "LawVault\\Services\\Repos\\EmailRepo.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Repos\\EmailRepo.cs",
+              "RelativeToolTip": "LawVault\\Services\\Repos\\EmailRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:23:20.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CookieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Repos\\CookieRepo.cs",
+              "RelativeDocumentMoniker": "LawVault\\Services\\Repos\\CookieRepo.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Repos\\CookieRepo.cs",
+              "RelativeToolTip": "LawVault\\Services\\Repos\\CookieRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:23:06.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Interface\\IEmailRepo.cs",
+              "RelativeDocumentMoniker": "LawVault\\Services\\Interface\\IEmailRepo.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Interface\\IEmailRepo.cs",
+              "RelativeToolTip": "LawVault\\Services\\Interface\\IEmailRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:22:52.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITokenRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Interface\\ITokenRepo.cs",
+              "RelativeDocumentMoniker": "LawVault\\Services\\Interface\\ITokenRepo.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Interface\\ITokenRepo.cs",
+              "RelativeToolTip": "LawVault\\Services\\Interface\\ITokenRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:22:30.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICookieRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Interface\\ICookieRepo.cs",
+              "RelativeDocumentMoniker": "LawVault\\Services\\Interface\\ICookieRepo.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Interface\\ICookieRepo.cs",
+              "RelativeToolTip": "LawVault\\Services\\Interface\\ICookieRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:22:13.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Repos\\AuthRepo.cs",
+              "RelativeDocumentMoniker": "LawVault\\Services\\Repos\\AuthRepo.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Repos\\AuthRepo.cs",
+              "RelativeToolTip": "LawVault\\Services\\Repos\\AuthRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:21:55.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthRepo.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Interface\\IAuthRepo.cs",
+              "RelativeDocumentMoniker": "LawVault\\Services\\Interface\\IAuthRepo.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Services\\Interface\\IAuthRepo.cs",
+              "RelativeToolTip": "LawVault\\Services\\Interface\\IAuthRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:20:46.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LawVault\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LawVault\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:08:30.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Dto\\UserDto.cs",
+              "RelativeDocumentMoniker": "LawVault\\Dto\\UserDto.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Dto\\UserDto.cs",
+              "RelativeToolTip": "LawVault\\Dto\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T22:07:35.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LegalDocument.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Models\\LegalDocument.cs",
+              "RelativeDocumentMoniker": "LawVault\\Models\\LegalDocument.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Models\\LegalDocument.cs",
+              "RelativeToolTip": "LawVault\\Models\\LegalDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T16:16:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "LawVault\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\sawye\\source\\repos\\LawVault\\LawVault\\Models\\Client.cs",
+              "RelativeToolTip": "LawVault\\Models\\Client.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T16:15:25.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
