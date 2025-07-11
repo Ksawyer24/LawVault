@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LawVault")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bae72d5bf6d4dac9a5c0814c6c60e949f65368b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3429fc604019fb8b9e1dba9f1add231daca06bcc")]
 [assembly: System.Reflection.AssemblyProductAttribute("LawVault")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LawVault")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
